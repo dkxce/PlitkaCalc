@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WallsPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <caption>tmp.wplan</caption>
+  <points>
+    <xy x="0" y="0" />
+    <xy x="0" y="304" />
+    <xy x="182" y="304" />
+    <xy x="182" y="588" />
+    <xy x="582" y="588" />
+    <xy x="582" y="419" />
+    <xy x="284" y="419" />
+    <xy x="284" y="0" />
+  </points>
+  <TileHeight>30</TileHeight>
+  <TileWidth>30</TileWidth>
+  <Gap>10</Gap>
+  <Angle>45</Angle>
+  <Plot>true</Plot>
+</WallsPlan>
